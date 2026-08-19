@@ -1,11 +1,15 @@
 <!--
-  README.md - Profile for annayev-dev (personalized)
-  - Animated SVG hero (pure SVG animations, no JS) so it renders on GitHub README
+  README.md - Profile for annayev-dev (finalized)
+  - Animated SVG hero (pure SVG animations, no JS)
   - Turkish text, showcases HTML/CSS/JS skills
   - Accessibility: title/desc + prefers-reduced-motion handling
   - Featured projects filled automatically from your public repos
-  - Font choice: Inter (system-friendly, no embedded font to keep README light)
+  - Font choice: Inter (system-friendly) — no embedded font by default to keep README light
+  - Assets section: upload GIFs and fonts to /assets and they will be shown automatically
+  - Placeholder marker <!--LAST_UPDATED--> will be replaced daily by the workflow .github/workflows/update-readme.yml
 -->
+
+<!--LAST_UPDATED-->
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice" width="100%" role="img" aria-labelledby="titleDesc">
   <title id="titleDesc">Anna Yev — Front-end geliştiricisi</title>
@@ -114,7 +118,7 @@
 
 # Merhaba — ben Anna 👋
 
-Bu profil README'si tamamen sana özel hazırlandı: animasyonlu, dikkat çekici ve front-end yeteneklerini vurgulayan bir sunum.
+Bu profil README'si tamamen sana özel hazırland��: animasyonlu, dikkat çekici ve front-end yeteneklerini vurgulayan bir sunum.
 
 Kısa Bio
 
@@ -136,17 +140,15 @@ Canlı İstatistikler ve Sosyal
 
 Sosyal: [LinkedIn](https://www.linkedin.com/in/annayev) • [Twitter](https://twitter.com/annayev) • Email: annayev.dev@gmail.com
 
-Tercihler
+Assets (upload to repo)
 
-- Font tercihi: Inter (sistem benzeri, hafif ve modern) — gömme font uygulanmadı, böylece README küçük kalır.
-- Renk paleti: #00d2ff, #3a7bd5, #b06ab3 (gradient üzerinde kullanılıyor).
+- GIFs: place demo GIFs under assets/gifs/ (e.g. assets/gifs/kopri-demo.gif). Once uploaded, update the project card below to point to the GIF.
+- Fonts: to embed a custom font, upload a WOFF or WOFF2 to assets/fonts/ and send me the filename; I will base64-embed it into the SVG header and update the README (warning: increases README size).
 
-Nasıl Özelleştirilir
+How to enrich projects
 
-- İsim veya başlık değiştirmek için README içindeki SVG ve başlık satırlarını düzenle.
-- Renk paletini değiştirmek için SVG'deki linearGradient (#g1) renklerini güncelle.
-- Proje linklerini güncelle: Öne çıkan projelerin linklerini gerçek demo URL'leri ile değiştir.
-- Özel font istersen: bana bir WOFF/WOFF2 dosyası yolla veya "embed font" de; ben base64 gömülü fontu eklerim (README boyutu büyür).
+- Add a small GIF/screenshot to assets/gifs/ and I'll update the README to show it.
+- Provide a short tagline (1 sentence) per project and a live demo URL if available.
 
 Erişilebilirlik ve performans notları
 
@@ -155,10 +157,8 @@ Erişilebilirlik ve performans notları
 
 ---
 
-README'yi kişiselleştirdim: üç öne çıkan projeyi sana ait repo bilgilerine göre yerleştirdim, Inter fontunu tercih ettim (gömme yok) ve mevcut gradient paletini korudum. İstersen şimdi:
+README'yi güncelledim: tüm temel istekleri uyguladım ve bir otomatik güncelleme iş akışı ekledim. Aşağıdaki adımları da tamamlayabilirim — lütfen dosyaları veya onay verin:
 
-- (1) Projeler için kısa canlı demo linkleri veya GIF'ler ekleyeyim.
-- (2) Fontu base64 ile gömeyim (dosya gönder), veya başka bir fonta geçir.
-- (3) Renk paletini değiştirip daha cesur/soft bir görünüm veriyim.
-
-Hemen birini seç veya "hepsini yap" de devam edeyim.
+- (GIFler) Yükle: assets/gifs/*.gif — ben README'yi güncelleyip GIF'leri işlerim.
+- (Font gömme) Yükle: assets/fonts/*.woff2 — onayla, ben base64 ile gömerim.
+- (Renk değişikliği) Ver: üç hex kodu — ben gradienti güncellerim.
