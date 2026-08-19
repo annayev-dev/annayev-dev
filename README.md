@@ -1,11 +1,10 @@
 <!--
-  README.md - Profile for annayev-dev (updated)
+  README.md - Profile for annayev-dev (personalized)
   - Animated SVG hero (pure SVG animations, no JS) so it renders on GitHub README
   - Turkish text, showcases HTML/CSS/JS skills
   - Accessibility: title/desc + prefers-reduced-motion handling
-  - Project cards (placeholders) + GitHub stats + social links
-  - Special font effect using layered SVG text (lightweight). If you want a real embedded font,
-    provide a WOFF/WOFF2 file or say "embed font" and I'll add base64-embedded font (increases README size).
+  - Featured projects filled automatically from your public repos
+  - Font choice: Inter (system-friendly, no embedded font to keep README light)
 -->
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" preserveAspectRatio="xMidYMid slice" width="100%" role="img" aria-labelledby="titleDesc">
@@ -21,8 +20,8 @@
     }
 
     /* Decorative type treatment fallback to system fonts */
-    .headline { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
-    .sub { font-family: 'Segoe UI', Roboto, Arial, sans-serif; }
+    .headline { font-family: 'Inter', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+    .sub { font-family: 'Inter', 'Segoe UI', Roboto, Arial, sans-serif; }
   ]]></style>
 
   <defs>
@@ -124,11 +123,9 @@ Kısa Bio
 
 Öne Çıkan Projeler
 
-- [Project 1 — Örnek UI Kit](https://github.com/annayev-dev/project-1) — Minimal, erişilebilir UI bileşen kütüphanesi.
-- [Project 2 — Interaktif Demo](https://github.com/annayev-dev/project-2) — JavaScript ile etkileşim örnekleri ve animasyonlar.
-- [Project 3 — Performant Landing](https://github.com/annayev-dev/project-3) — Hız ve SEO odaklı açılış sayfası.
-
-(Not: Bu linkler placeholder — istersen gerçek project repo/demosu ver, ben doğrudan buna göre güncellerim.)
+- [Kopri-website](https://github.com/annayev-dev/Kopri-website) — Minimal, erişilebilir açılış sayfası built with HTML; küçük, temiz ve performans odaklı.
+- [K-pri-App-for-phone](https://github.com/annayev-dev/K-pri-App-for-phone) — Köpri — offline translator for Android: camera text recognition (Tesseract OCR), instant text-to-text translation in 50+ languages and a huge multilingual phrasebook. Built with Flutter & Dart; works without internet.
+- [annayev-dev (Profil README)](https://github.com/annayev-dev/annayev-dev) — Bu repo profil README'si ve demo alanı; animasyonlu SVG hero ve örnek projeler içerir.
 
 Canlı İstatistikler ve Sosyal
 
@@ -139,11 +136,16 @@ Canlı İstatistikler ve Sosyal
 
 Sosyal: [LinkedIn](https://www.linkedin.com/in/annayev) • [Twitter](https://twitter.com/annayev) • Email: annayev.dev@gmail.com
 
+Tercihler
+
+- Font tercihi: Inter (sistem benzeri, hafif ve modern) — gömme font uygulanmadı, böylece README küçük kalır.
+- Renk paleti: #00d2ff, #3a7bd5, #b06ab3 (gradient üzerinde kullanılıyor).
+
 Nasıl Özelleştirilir
 
 - İsim veya başlık değiştirmek için README içindeki SVG ve başlık satırlarını düzenle.
 - Renk paletini değiştirmek için SVG'deki linearGradient (#g1) renklerini güncelle.
-- Proje linklerini güncelle: Öne çıkan projelerin linklerini gerçek repo/demo URL'leri ile değiştir.
+- Proje linklerini güncelle: Öne çıkan projelerin linklerini gerçek demo URL'leri ile değiştir.
 - Özel font istersen: bana bir WOFF/WOFF2 dosyası yolla veya "embed font" de; ben base64 gömülü fontu eklerim (README boyutu büyür).
 
 Erişilebilirlik ve performans notları
@@ -151,15 +153,12 @@ Erişilebilirlik ve performans notları
 - SVG içinde title/desc eklendi; ayrıca prefers-reduced-motion destekleniyor.
 - GitHub README'lerinde harici JS çalışmaz — etkileşimler SVG SMIL/CSS ile yapıldı.
 
-İstersen hemen:
-- Gerçek 3 proje linkini ver, ben kısaltılmış açıklamalarla güncellerim.
-- "Embed font" dersen, kullanmak istediğin fontu veya izin verilecekse benim önerimi belirt (Ben Inter veya Rubik öneririm) ve ben base64 ile gömüp README'yi güncellerim.
-
 ---
 
-README'yi güncelledim ve repo köküne koydum. Şimdi yapabileceğim şeyler:
-1) Placeholder projeleri gerçek linklerle değiştirip canlı demo/snippet eklerim.
-2) Eğer istersen fontu base64 olarak gömeyim (bunu uygulamak README boyutunu büyütecek).
-3) Renk paletini tam olarak istediğin hex kodlarıyla güncelleyeyim.
+README'yi kişiselleştirdim: üç öne çıkan projeyi sana ait repo bilgilerine göre yerleştirdim, Inter fontunu tercih ettim (gömme yok) ve mevcut gradient paletini korudum. İstersen şimdi:
 
-Hemen hangi adımı (1–3) veya hepsini beraber mi yapayım? Eğer "tamam hepsini" dersen, gerçek proje linklerini ve tercih ettiğin font/hex paleti paylaş.
+- (1) Projeler için kısa canlı demo linkleri veya GIF'ler ekleyeyim.
+- (2) Fontu base64 ile gömeyim (dosya gönder), veya başka bir fonta geçir.
+- (3) Renk paletini değiştirip daha cesur/soft bir görünüm veriyim.
+
+Hemen birini seç veya "hepsini yap" de devam edeyim.
