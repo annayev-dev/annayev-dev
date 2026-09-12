@@ -1,7 +1,7 @@
 <!-- Header with animation -->
 <div align="center">
   
-![typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Welcome+to+annayev-dev;Full+Stack+Mobile+Developer;Cross-Platform+Specialist;💻+Code.+🎨+Create.+🚀+Innovate)
+![typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Welcome+to+annayev-dev;Web+Developer+%26+Designer;HTML+%7C+CSS+%7C+JavaScript;🎨+Code.+✨+Design.+🚀+Create)
 
 </div>
 
@@ -9,65 +9,173 @@
 
 ## 🌟 About Me
 
-<img align="right" src="https://img.shields.io/badge/Status-Always%20Coding%20🔥-brightgreen?style=flat-square" alt="Status Badge" />
+<img align="right" src="https://img.shields.io/badge/Status-Always%20Building%20🔥-brightgreen?style=flat-square" alt="Status Badge" />
 
-I'm a passionate **Full-Stack Mobile Developer** and **Open-Source Contributor** with expertise in creating **high-performance**, **user-centric** applications. Specializing in **offline-first solutions**, **cross-platform development**, and **native performance optimization**.
+I'm a passionate **Web Developer & Designer** specializing in creating **beautiful**, **responsive**, and **interactive** websites. I craft engaging digital experiences using **modern HTML5**, **CSS3**, and **Vanilla JavaScript** — no framework dependencies, just pure web magic. 🎨
 
-> 💡 *Building tomorrow's apps today with modern tech stack*
+> 💡 *Creating bridges between ideas and pixels with web technologies*
 
 ---
 
-## 🔥 Core Competencies
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Mobile** | **Tools & DevOps** |
+| **Frontend** | **Styling** | **Scripting** | **Tools** |
 |:---:|:---:|:---:|:---:|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![Web Dev](https://img.shields.io/badge/Web%20Dev-FF6B6B?style=for-the-badge&logo=www&logoColor=white) | ![OCR](https://img.shields.io/badge/ML%20Kit%2FOCRe-FF6B6B?style=for-the-badge) | ![Native](https://img.shields.io/badge/Native%20Dev-000000?style=for-the-badge) | ![Performance](https://img.shields.io/badge/Optimization-⚡-yellow?style=for-the-badge) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Semantic Structure | Animations & Themes | DOM Manipulation | GitHub |
+| Accessibility | Responsive Design | Vanilla JS (ES5+) | Web Performance |
+| Forms & Input | CSS Variables | Event Handling | Cross-browser Testing |
 
 </div>
 
 ---
 
-## 📱 Featured Projects
+## 🌐 My Expertise
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🎵 **BluePlayer** - Modern Music Player
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayev-dev/BluePlayer)
+### 🎨 Frontend Development
+- ✨ **Responsive Web Design**
+- 🎬 **Smooth Animations**
+- 🌗 **Dark/Light Themes**
+- ♿ **Accessibility (A11Y)**
+- 📱 **Mobile-First Approach**
+- 🎯 **Semantic HTML5**
 
-> Native Android music player with C++ performance optimization
-- 🎶 Native audio playback pipeline
-- ⚡ Hardware-accelerated C++ modules
-- 🎨 Modern Material Design UI
+</td>
+<td width="50%">
+
+### 💫 Interaction & UX
+- 🖱️ **Mouse Effects & Tilt**
+- 📜 **Scroll Animations**
+- 🎪 **Intersection Observer**
+- ⌨️ **Keyboard Navigation**
+- 💬 **Form Validation**
+- 🔄 **State Management**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎨 Design & Visual Effects
+- 🌈 **Gradient Mastery**
+- 🎭 **SVG Integration**
+- 💥 **Visual Effects**
+- 🎪 **CSS Animations**
+- 📐 **Layout & Grid**
+- 🖼️ **Image Optimization**
+
+</td>
+<td width="50%">
+
+### ⚡ Performance & Best Practices
+- ⚙️ **Page Load Optimization**
+- 🎯 **Code Efficiency**
+- 📊 **Lighthouse Scores**
+- 🔒 **Web Security**
+- 🧹 **Clean Code**
+- 📝 **Documentation**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌍 **Köpri** - Offline Translator
-[![GitHub](https://img.shields.io/badge/View%20Main%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayev-dev/K-pri-App-for-phone)
-[![GitHub](https://img.shields.io/badge/View%20Website-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayev-dev/Kopri-website)
+## 🎯 Featured Project
 
-> Revolutionary offline translation & OCR application
-- 🔤 **Hybrid OCR Engine**: Google ML Kit + Tesseract OCR
-- 🌐 **50+ Language Support** with instant translation
-- 📚 **4000+ Phrase Dictionary** for common communications
-- 📍 **100% Offline**: Privacy-first, no data collection
-- 🚀 **Native C++ Processing** for lightning-fast performance
-- 🎯 Built with: **Flutter & Dart** for cross-platform excellence
-- 🔒 Apache 2.0 Licensed
+### 🌉 **Köpri** — Web Showcase
+[![GitHub](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayev-dev/Kopri-website)
 
-**Key Features:**
+**My flagship web creation** — A beautiful, fully animated single-page website for the Köpri app with premium design and smooth interactions.
+
+#### 🎨 What I Built:
+
+**HTML** 
+- Semantic HTML5 structure
+- Responsive navigation
+- Modal dialogs & feedback forms
+- Multi-language support markup
+- SEO-optimized elements
+
+**CSS**
+- Theme system (Dark/Light toggle)
+- Advanced animations & effects
+- CSS Variables for maintainability
+- Fully responsive design
+- Gradient designs & blur effects
+- Smooth transitions
+
+**JavaScript**
+- i18n (Internationalization) - 3 languages (EN, RU, TK)
+- DOM manipulation & rendering
+- Theme persistence (localStorage)
+- Intersection Observer for reveal animations
+- Mouse tilt effects on desktop
+- Screenshot carousel logic
+- Form handling & validation
+- Firebase Firestore integration
+
+#### ✨ Features I Created:
+
 ```
-✅ Camera text recognition in real-time
-✅ Offline translation (no internet required)
-✅ Multi-language phrasebook
-✅ Optimized for low-end devices
-✅ Seamless Flutter architecture
+✅ Preloader animation with progress bar
+✅ Floating blob animations
+✅ Floating chips with orbit effect
+✅ CTA shine effect (button glow)
+✅ Marquee scrolling (50+ languages)
+✅ Scroll reveal animations
+✅ Counter animations
+✅ Hero tilt effect (mouse tracking)
+✅ Scroll progress indicator
+✅ Dark/Light theme toggle
+✅ Language switcher (3 languages)
+✅ Screenshot slider
+✅ Fully responsive layout
+✅ Keyboard navigation
+✅ Copy-to-clipboard functionality
 ```
 
-</div>
+**Tech Stack Used:**
+- Pure HTML5
+- CSS3 (no preprocessors)
+- Vanilla JavaScript (no frameworks)
+- @fontsource CDN (Manrope + JetBrains Mono)
+- Firebase Firestore
+- Inline SVG icons
+
+**Result:** A stunning, high-performance website that delights users with smooth animations and intuitive interactions.
+
+---
+
+## 💡 What Makes My Code Special
+
+### Clean & Maintainable
+```javascript
+// Well-organized, readable code
+const I18N = { en: {}, ru: {}, tk: {} };
+function setLanguage(lang) { /* ... */ }
+function toggleTheme() { /* ... */ }
+```
+
+### Performance-Focused
+- No heavy dependencies
+- Minimal DOM reflows
+- Optimized animations (CSS-based)
+- Lazy loading where needed
+- Efficient event handling
+
+### User-Centric Design
+- Smooth, delightful interactions
+- Accessibility first (ARIA labels)
+- Works without JavaScript (graceful degradation)
+- Mobile-optimized
+- Fast load times
 
 ---
 
@@ -83,112 +191,47 @@ I'm a passionate **Full-Stack Mobile Developer** and **Open-Source Contributor**
 
 ---
 
-## 🎯 What I Specialize In
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 Frontend Excellence
-- ✨ **Responsive UI/UX Design**
-- 🎨 **Advanced Animations**
-- 📱 **Cross-Platform Flutter Apps**
-- 🌈 **Material & Custom Design**
-
-</td>
-<td width="50%">
-
-### ⚡ Backend Mastery
-- 🔧 **Native C++ Modules**
-- 🗄️ **Database Optimization**
-- 🔐 **Security & Encryption**
-- 📊 **Data Processing**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 Performance
-- ⚙️ **Optimization & Profiling**
-- 🎯 **Low-latency Systems**
-- 💾 **Memory Efficiency**
-- 🔋 **Battery Optimization**
-
-</td>
-<td width="50%">
-
-### 🔄 DevOps & Deployment
-- 🐙 **Git Workflow Masters**
-- 📦 **CI/CD Pipeline**
-- 🌐 **Cloud Integration**
-- 📈 **Scalability**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌈 My Development Philosophy
+## 🎓 My Development Philosophy
 
 ```
 ┌─────────────────────────────────────────┐
-│   Code with Purpose                     │
-│   ↓                                     │
-│   Performance First                     │
+│   Simplicity Over Complexity            │
 │   ↓                                     │
 │   User Experience Matters               │
 │   ↓                                     │
-│   Innovation & Excellence               │
+│   Performance is a Feature              │
+│   ↓                                     │
+│   Beautiful Code = Beautiful Results    │
 └─────────────────────────────────────────┘
 ```
 
 ---
 
-## 📈 Metrics & Achievements
+## 🌟 Skills Breakdown
 
-<div align="center">
+### HTML5
+- Semantic markup
+- Accessible forms
+- Meta tags & SEO
+- Responsive images
+- Inline SVG
 
-![Commits](https://img.shields.io/badge/Commits-100%2B-brightgreen?style=flat-square)
-![Projects](https://img.shields.io/badge/Active%20Projects-4%2B-blue?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars%20Earned-4%2B-yellow?style=flat-square)
-![Code Quality](https://img.shields.io/badge/Code%20Quality-Excellent-brightgreen?style=flat-square)
+### CSS3
+- Flexbox & Grid
+- Animations & transitions
+- Media queries
+- CSS Variables
+- Gradients & effects
+- Theme systems
 
-</div>
-
----
-
-## 🛠️ Tech Stack Deep Dive
-
-### **Languages**
-```python
-languages = {
-    "Dart": "Expert - Primary development language",
-    "C++": "Advanced - Performance optimization & native modules",
-    "HTML/CSS": "Proficient - Web presence & responsive design",
-    "Java": "Intermediate - Android ecosystem"
-}
-```
-
-### **Frameworks & Libraries**
-- 🦋 **Flutter** - Cross-platform mobile development
-- 🎯 **Android Native** - Low-level system integration
-- 💻 **Modern Web Stack** - HTML5, CSS3, Responsive Design
-
-### **Specialized Tools**
-- 🔤 **Tesseract OCR** - Advanced text recognition
-- 👁️ **Google ML Kit** - Machine learning integration
-- 📱 **Android NDK** - Native code compilation
-
----
-
-## 🎨 Creative & Technical Balance
-
-> **I believe in the perfect fusion of:**
-> - 🎭 **Aesthetic Design** meets **Technical Excellence**
-> - 💪 **Raw Performance** with **User-Friendly Interface**
-> - 🔒 **Security** alongside **Accessibility**
+### JavaScript
+- Vanilla JS (no jQuery)
+- ES5+ features
+- DOM manipulation
+- Event handling
+- Storage APIs
+- API integration
+- i18n systems
 
 ---
 
@@ -197,55 +240,45 @@ languages = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-annayev--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annayev-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/annayev-dev/Kopri-website)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Köpri Website](https://img.shields.io/badge/Köpri%20Website-Visit-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/annayev-dev/Kopri-website)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annayev.dev@gmail.com)
 
 ### 🚀 Open For:
-- 💼 **Freelance Projects** - Mobile & Web
+- 💼 **Web Design & Development** - Custom sites
+- 🎨 **UI/UX Implementation** - Beautiful interfaces
 - 🤝 **Open Source Contributions** - Make an impact
-- 🎓 **Tech Mentoring** - Share knowledge
-- 💡 **Innovative Ideas** - Let's build together
+- 💡 **Web Projects** - Let's build something amazing
 
 </div>
 
 ---
 
-## 📝 Latest Activity
+## 📝 What I Love About Web Development
 
 ```
-⭐ Building amazing apps with Flutter
-🔧 Optimizing performance with C++
-📚 Contributing to open-source projects
-🎯 Always learning, always improving
+✨ Creating beautiful interfaces
+🎬 Building smooth animations
+♿ Making web accessible to everyone
+📱 Designing for all devices
+🎯 Writing clean, maintainable code
+💪 Solving complex UX problems
+🚀 Shipping fast & iterating
+🎨 Combining art with technology
 ```
-
----
-
-## 🎊 Fun Facts
-
-<div align="center">
-
-| 🎯 | 💻 | 🚀 | 🌟 |
-|:---:|:---:|:---:|:---:|
-| **Problem Solver** | **Code Enthusiast** | **Fast Learner** | **Perfectionist** |
-| Loves tackling complex challenges | Writes clean, maintainable code | Adapts to new tech stack | Details matter |
-
-</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work valuable, show some love with a star! ⭐
+### ⭐ If you like my work, show some love with a star! ⭐
 
-![Wave Animation](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
-
-**Made with ❤️ by annayev-dev**
+**Made with ❤️ using HTML, CSS & JavaScript**
 
 ```
 ╔═════════════════════════════════════════╗
-║  Keep Coding, Keep Creating, Keep Being ║
-║              Awesome! 🚀                ║
+║     Building Beautiful Web Experiences  ║
+║         One Line of Code at a Time      ║
+║              🌐✨🚀                     ║
 ╚═════════════════════════════════════════╝
 ```
 
